@@ -88,4 +88,4 @@ look up reversal potential on wikipedia
  
 parameters starting with gSyn are the maximal conductances of synapses
 when a cell talks to an other cell it is modeled like an increase in
-current from 0 to some maximal value, just like in channels opening
+current from 0 to some maximal value, just like in channels opening.
